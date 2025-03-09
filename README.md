@@ -1,1 +1,1 @@
-# Amazon_sales_Data
+# Amazon Sales Analysis Project with SQL
